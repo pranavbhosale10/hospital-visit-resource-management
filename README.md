@@ -58,6 +58,7 @@ The project demonstrates practical SQL operations including:
 
 ## 📁 Repository Structure
 
+```text
 hospital-visit-resource-management/
 │
 ├── documentation/
