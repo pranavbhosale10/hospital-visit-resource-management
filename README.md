@@ -56,9 +56,18 @@ The project demonstrates practical SQL operations including:
 4. Handle flexible and semi-structured data using JSON
 5. Ensure reliable and consistent database operations
 
-## 📁 Project Files
+## 📁 Repository Structure
 
-- `hospital_management.sql` — SQL database implementation
+hospital-visit-resource-management/
+│
+├── documentation/
+│   ├── README.md
+│   ├── Hospital_Visit_Resource_Management_Documentation.pdf
+│   └── Hospital_Visit_Resource_Management_Presentation.pptx
+│
+├── Hospital_Visit_Resource_Management.sql
+│
+└── README.md
 
 ## 🎓 Project
 
